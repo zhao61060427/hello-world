@@ -1,5 +1,5 @@
 # hello-world
-just a repository that says hello to the world
+
 hi humans!
 
 hubot here, I like Node.js and coffeescript (that is what I'm made of).
